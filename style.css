@@ -1,0 +1,191 @@
+body{
+  background-image:url(./food\ images.jpg);
+  border:5px groove green ;
+  background-size:cover;
+  margin:0;
+}
+ .div1 {
+  width: 2000;
+    padding: 21px;
+    /* margin: 15px 0px 15px 15px; */
+    border-width:5px;
+    /* float: left; */
+    color: white;
+    margin-right: 0px;
+    display:flex;
+    justify-content:space-evenly;
+    flex-direction:row;
+    flex-wrap:wrap;
+    border:5px solid none;
+    text-align:center; 
+    gap:20px;
+    justify-content:space-between;
+   }
+    .heading1{
+      background-color:black;
+      line-height: normal;
+      text-align:"center";
+      line-height:30px;
+      font-style:italic; 
+      border:5px solid red;
+       width:300px;
+      height:100px;
+      border-radius:20px 25px 30px 35px;
+    }
+      .heading2 {
+        background-color:black; 
+    line-height: normal;
+      text-align:"center";
+      line-height:30px;
+      font-style:italic;
+      border:5px solid red;
+      width:350px;
+      height:70px;
+      border-radius:20px 25px 30px 35px;
+      margin-left:-580px;
+      word-spacing:5px;
+       }
+      
+        .heading3 {
+          background-color:black;
+          line-height: normal;
+            text-align:"center";
+            line-height:30px;
+            font-style:italic;
+            border:5px solid red;
+            width:250px;
+            height:150px;
+            border-radius:20px 25px 30px 35px; 
+       }
+   .div4{
+    text-align:center;
+    margin:auto;
+    width:1000px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    border:2px solid none;
+    gap:20px;
+    justify-content:space-between;
+
+   }    
+
+  .offers {
+    height:320px;
+    width:320px;
+    border-radius:50%;
+    margin-top:500px;
+    margin-right:20px;
+    padding: 10px;
+    background-color:lightblue;
+    border:2px solid black;
+     text-align:center;
+   color:blue;
+
+     }
+  
+  .rectangular {
+    background-color:white ;
+    color:red;
+    padding: left;
+    border:5px dotted red;
+    text-align: center;
+    height:900px;
+    width:400px;;
+  }
+
+.heading3 {
+  line-height: normal;
+  text-align:"center";
+  line-height:30px;
+  font-style:italic; 
+}
+ 
+    .box{
+      height:50px;
+      width:300px; 
+     margin-left:400px;;
+        border:5px solid none;
+       background-color:none ;
+        /* margin:auto; */
+       border-radius:20px 25px 30px 35px;
+      
+    }
+
+     .box1{
+      border:5px solid red;
+      background-color:black; 
+      text-align:center;
+      font-style:italic;
+      border-radius:20px 25px 30px 35px;
+      color:white
+     } 
+
+  .starter{                                               
+    width:1000px;
+    border-radius: 5px;
+     margin-top:50px; 
+    display:flex;
+    justify-content:space-evenly;
+    flex-direction:row;
+    flex-wrap:wrap;
+    border:5px solid none;
+    text-align:center; 
+    gap:60px;
+    justify-content:space-between; 
+}
+
+      .starter1{
+        color:darkblue;
+        border:5px solid green;
+        width:250px;
+        height:300px;
+        border-radius:20px 25px 30px 35px;
+        background-color:darkcyan;
+      }
+       .South1{
+    color:darkblue;
+    border:5px solid green;
+    width:250px;
+    height:300px;
+    border-radius:20px 25px 30px 35px;
+    background-color:darkcyan;
+   }
+
+  .Indian1{
+          color:darkblue;
+          border:5px solid green;
+          width:250px;
+         height:300px;
+         border-radius:20px 25px 30px 35px;
+         background-color:darkcyan;
+  }
+    .rice1{
+        color:darkblue;
+        border:5px solid green;
+        width:250px;
+        height:300px;
+        border-radius:20px 25px 30px 35px;
+        background-color:darkcyan;
+      }
+  
+  .tandoori1{
+   color:darkblue;
+   border:5px solid green;
+   width:250px;
+   height:300px;
+   border-radius:20px 25px 30px 35px;
+   background-color:darkcyan;
+ }
+
+     .beverage1{
+        color:darkblue;
+        border:5px solid green;
+        width:250px;
+        height:300px;
+        border-radius:20px 25px 30px 35px;
+        background-color:darkcyan;
+      }
+      
+
+ 
